@@ -41,5 +41,8 @@
   },
   "devDependencies": {
     "faker": "^5.5.3"
-  }
+  },
+   "overrides": {
+    "autoprefixer": "10.4.5"
+}
 }
